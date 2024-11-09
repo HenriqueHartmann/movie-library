@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Patua+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+body {
+    background-color: #001427;
+}
+
+.patua-one-regular {
+    font-family: "Patua One", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
